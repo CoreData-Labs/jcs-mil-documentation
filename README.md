@@ -10,7 +10,7 @@
 ![Format](https://img.shields.io/badge/format-PDF-red)
 ![Dedup](https://img.shields.io/badge/duplicates-SHA--256%20checked-success)
 
-**Official source:** https://www.jcs.mil/ &nbsp;•&nbsp; **Repository:** https://github.com/PrajwalKoirala638/jcs-mil-documentation
+**Official source:** https://www.jcs.mil/ &nbsp;•&nbsp; **Repository:** https://github.com/CoreData-Labs/jcs-mil-documentation
 
 </div>
 
@@ -274,7 +274,7 @@ The scraper writes to `PDFs/` by default. Move or sync files into `documents/` (
 sudo apt-get install bash git ghostscript coreutils util-linux findutils grep sed gawk psmisc openssh-client ca-certificates python3 python3-pip python3-venv python3-lxml python3-psutil iputils-ping xvfb nodejs -y
 
 # Clone the repository
-git clone --depth 1 https://github.com/PrajwalKoirala638/jcs-mil-documentation
+git clone --depth 1 https://github.com/CoreData-Labs/jcs-mil-documentation
 
 # Enter the folder
 cd jcs-mil-documentation
@@ -620,7 +620,7 @@ If you find this project useful:
 - 💻 Contribute improvements.
 - 📚 Help make public documentation easier to discover.
 
-Repository: https://github.com/PrajwalKoirala638/jcs-mil-documentation
+Repository: https://github.com/CoreData-Labs/jcs-mil-documentation
 
 ---
 
